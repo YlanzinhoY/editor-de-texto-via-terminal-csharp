@@ -1,0 +1,15 @@
+C:\Users\enzom\OneDrive\Imagens\EditorTexto\bin\Debug\net7.0\EditorTexto.exe
+C:\Users\enzom\OneDrive\Imagens\EditorTexto\bin\Debug\net7.0\EditorTexto.deps.json
+C:\Users\enzom\OneDrive\Imagens\EditorTexto\bin\Debug\net7.0\EditorTexto.runtimeconfig.json
+C:\Users\enzom\OneDrive\Imagens\EditorTexto\bin\Debug\net7.0\EditorTexto.dll
+C:\Users\enzom\OneDrive\Imagens\EditorTexto\bin\Debug\net7.0\EditorTexto.pdb
+C:\Users\enzom\OneDrive\Imagens\EditorTexto\obj\Debug\net7.0\EditorTexto.csproj.AssemblyReference.cache
+C:\Users\enzom\OneDrive\Imagens\EditorTexto\obj\Debug\net7.0\EditorTexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enzom\OneDrive\Imagens\EditorTexto\obj\Debug\net7.0\EditorTexto.AssemblyInfoInputs.cache
+C:\Users\enzom\OneDrive\Imagens\EditorTexto\obj\Debug\net7.0\EditorTexto.AssemblyInfo.cs
+C:\Users\enzom\OneDrive\Imagens\EditorTexto\obj\Debug\net7.0\EditorTexto.csproj.CoreCompileInputs.cache
+C:\Users\enzom\OneDrive\Imagens\EditorTexto\obj\Debug\net7.0\EditorTexto.dll
+C:\Users\enzom\OneDrive\Imagens\EditorTexto\obj\Debug\net7.0\refint\EditorTexto.dll
+C:\Users\enzom\OneDrive\Imagens\EditorTexto\obj\Debug\net7.0\EditorTexto.pdb
+C:\Users\enzom\OneDrive\Imagens\EditorTexto\obj\Debug\net7.0\EditorTexto.genruntimeconfig.cache
+C:\Users\enzom\OneDrive\Imagens\EditorTexto\obj\Debug\net7.0\ref\EditorTexto.dll
